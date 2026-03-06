@@ -2,16 +2,7 @@
 layout: default
 title: Details
 ---
-
-# Product Details
-
-This is the details page.
-
-## Features
-- Fast
-- Simple
-- Free
-  
+ 
 # 🛒 Store Format Optimization Using K-Means Clustering
 
 ## 📌 Project Overview
